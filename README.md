@@ -75,17 +75,17 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 project/
 │
+├──Dataset
 ├── notebook/
-│   └── day5_data_analyst_project.ipynb   # Full EDA, cleaning, modeling, evaluation
+│   └── Logistic_regression.ipynb   # Full EDA, cleaning, modeling, evaluation
 │
-├── model/
-│   └── standardScalar.pkl                # Saved StandardScaler object (compressed)
+├──Licence              
 │
 ├── README.md
 ```
 
 - **notebook/**: Contains the Jupyter Notebook with complete code and visualizations.
-- **model/**: Contains the saved scaler object for consistent future transformations.
+
 
 ---
 
